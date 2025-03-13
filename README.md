@@ -1,5 +1,21 @@
 # CT08SVF-Cloud-Computing-TASK3
 
+**COMPANY**: CODTECH IT SOLUTIONS
+
+**NAME**: ARYA RANI
+
+**INTERN ID**: CT08SVF
+
+**DOMAIN**: CLOUD COMPUTING
+
+**DURATION**: 4 WEEKS
+
+**MENTOR**: NEELA SANTOSH 
+
+This repository contains all files and documentation related to the completion of the 3rd task of the cloud computing internship at CODTECH IT SOLUTIONS PVT. LTD., submitted by ARYA RANI (Intern ID: CT08SVF).
+
+**DESCRIPTION OF 3rd TASK**
+
 Task: Design a Multi-Cloud Architecture (AWS-Only Steps)
 Focus: Configure AWS services to enable interoperability with another cloud platform.
 
