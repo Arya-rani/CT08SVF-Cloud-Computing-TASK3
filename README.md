@@ -119,6 +119,21 @@ Screenshot Heading:
 Where to Capture: Final architecture diagram with AWS and placeholder components.
 
 **Output:**
+![Image](https://github.com/user-attachments/assets/a767626b-47a9-4504-8022-463a1b85d097)
+
+![Image](https://github.com/user-attachments/assets/68d62df6-8937-4197-8ff5-52566f5885e4)
+
+![Image](https://github.com/user-attachments/assets/ad26b254-4b00-4cab-b34b-8d7506e2131c)
+
+![Image](https://github.com/user-attachments/assets/5706f353-c5f1-456b-83f6-c71e91005903)
+
+![Image](https://github.com/user-attachments/assets/833761fd-4714-4031-8c30-e86ff7454c50)
+
+![Image](https://github.com/user-attachments/assets/a5b8e17e-f707-450d-9cc8-95c2e85014bc)
+
+![Image](https://github.com/user-attachments/assets/6f57ab00-e7f1-471d-a913-da2ef20714bf)
+
+![Image](https://github.com/user-attachments/assets/34d9777c-b56f-44dd-8c8c-e2b49ad1ab50)
 
 
 
